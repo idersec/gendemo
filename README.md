@@ -4,4 +4,4 @@
 
 # 使用方法参考
 
-[https://github.com/go-gorm/gorm#readme](https://github.com/go-gorm/gorm#readme)
+[https://github.com/go-gorm/gen#readme](https://github.com/go-gorm/gen#readme)
